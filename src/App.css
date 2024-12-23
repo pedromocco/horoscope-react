@@ -1,0 +1,9 @@
+/* Aplica un fondo morado con cuadriculas blancas */
+body, html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #13002C;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23053B5A' stroke-width='70.4' stroke-opacity='0.12' %3E%3Ccircle fill='%2313002C' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%2315002e' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%2317002f' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%23190031' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%231b0032' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%231e0034' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%23200035' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%23230037' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%23250038' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%2328003a' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%232b003b' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%232e003d' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%2331003e' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%23340040' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%23370041' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%233a0043' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%233e0044' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23410046' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
